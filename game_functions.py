@@ -3,6 +3,7 @@ from time import sleep
 import pygame
 from bullet import Bullet
 from alien import Alien
+import numba
 
 
 def get_number_aliens_x(ai_settings, alien_width):

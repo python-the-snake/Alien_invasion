@@ -6,6 +6,7 @@ from pygame.sprite import Group
 from alien import Alien
 from game_stats import GameStats
 from button import Button
+import numba
 
 
 def run_game():

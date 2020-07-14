@@ -1,4 +1,5 @@
 import pygame
+import numba
 from pygame.sprite import Sprite
 
 
